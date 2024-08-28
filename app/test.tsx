@@ -10,7 +10,6 @@ export default function Index() {
       }}
     >
       <Text> app/index.tsx to edit this screen.</Text>
-      <a href="test.tsx">hej</a>
     </View>
   );
 }
